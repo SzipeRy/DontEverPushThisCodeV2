@@ -21,7 +21,7 @@ const mockUsers = {
   },
   '3': {
     id: '3',
-    username: 'jane_smith',
+    username: 'jane_smiths',
     email: 'jane@example.com',
     role: 'user',
     ssn: '555-12-3456',
